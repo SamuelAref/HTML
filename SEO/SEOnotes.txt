@@ -1,0 +1,355 @@
+By Sam Oh
+
+Introduction
+
+    What is SEO (Search Engine Optimization)
+
+        - The process of optimizing content to be 
+          discovered through a search engine's organic search results.
+
+          Note: Organic serach results are the query results which are
+                calculated strictly algorithmically and not affected by advertiser payments.
+
+    Benefits of SEO 
+
+        - Unlike paying for ads, search traffic is free.
+        - Organic traffic is typially consistent once you're ranking high.
+        - You have the opportunity to reach massive audiences ( in 2019 there were 4 billion google users).
+
+    How google works 
+
+        - Crawlers and Indexers - allows google to discover informations and gather indexes to return the result 
+        - Google's ranking algorithms -
+
+                - backlinks - links  on a page from one website to another 
+                - Search Intent - what exactly are you searching
+                - Content Depth - a page's depth about that topic being searched 
+
+Module #1 : Keyword Research
+
+        1.1 Keywords
+
+                - Words and phrases that people type into search engines to find what they're looking for.
+                - Key words are the foundation for SEO 
+                - Keyword Research is the process of finding keywords that people are inputting into search engines.
+
+                How do you Choose Keywords worth targeting?
+
+                    - Search Demand - represents the volume of monthly searches made for a keyword. ( you can check words in ahrefs website)
+                                    - but these searches can be misleading, because for example if we search for miles to kilometers in google,
+                                      then it will calculate it automatically on the google page without any page click.
+
+                    - Topic traffic potential - Represents the total search traffic you could get if you were to rank at the top of google for your keyword.
+                                              
+                    - Business potential of keyword/topic - Represents the value a keyword has to your business.
+
+                                            - Example , if you have a website about golf (selling used golf clubs), you would rank the following searches 3 being important and 0 being not important 
+
+                                                            Search 1 - "Buy used golf clubs" - rank as 3 because it is directly related to your website
+                                                            Search 2 - "best golf clubs" - rank as 2 because it is not directly related but still refers to your product
+                                                            Search 3 - "what is a handicap in golf" - rank as 1 because it's almost not related to your website 
+                                                            Other searches with ranking as 0, you can ignore these as these are not related in anyway relevant to your website
+
+                    - Match search intent - represents the reason behind a searcher's query.
+
+                                - Example - if you have a recipe website, and the user searches for toaster oven.
+                                          - your search won't be able to satisfy the user's intent so you will not rank.
+                                
+                    - Determine whether you can rank for your keyword - is it worth ranking??
+
+        1.2 Search intent 
+
+                - What is search intent 
+
+                    - represents the reason behind a searcher's query
+                    - shows search engines that your page ill fulfill their goal.
+                    - to deliver the most relevant results for any query
+
+                    The 3 C's of search intent: 
+
+                            - Content type - Blog posts, videos, product pages, category pages, landing pages
+                            - Content format - specific to blog posts, landing pages with search result of how-to-guides, step-by-step tutorials 
+                            - Content angle - the hook to make people click your link like recent year on the link 
+
+        1.3 Keyword Research: How to find keywords for your website 
+
+             - Keyword Research is the process of finding keywords 
+               that people are searching for in search engines.
+
+             - 2 steps 
+
+                    1) Generate keyord ideas 
+
+                        - use the above listed steps to know key words worth targeting.
+                        - Key word research tools show you information on keywords 
+
+                                - Search volume
+                                - Keyword difficulty scores 
+                                - Other SEO metrics
+
+                        - They help you discover potential topics worth going after 
+                        - refer to our screenshot for key word generating ideas modifiers 
+                        - Example (ahref keyword generator or ahref keywords explorer)
+
+                        - Modifiers - are words that are added to the seed word that will gain more results 
+                                     examples are - best, new, how, where, vs...
+
+                    2) validate whether those keywords are worth going after
+
+        1.4 Understanding Ranking difficulty
+
+                - Competitors in SEO
+
+                    - Pages and websites that rank at the top of google for your target keywords.
+
+                    Before picking a fight consider 3 things 
+
+                        - Search intent 
+
+                            the 3 c's
+
+                        - Metrics of the top ranking pages and websites 
+
+                            - number of websites that are linking to the pages
+                            - Website authority - refers to domain rating which is the overall strength of a website's backlink profile.
+
+                        - Topical authority of the top ranking websites 
+
+                            - topically authoritative web pages rank best 
+
+Module #2 : On-Page SEO 
+
+
+        Part One
+
+            - What is on-Page SEO 
+
+                - The practice of optimizing web pages to rank higher 
+                  in search engines.
+
+                - It revolves heavily around optimizing pages for search intent.
+                - Also includes  title and meta tags on html
+
+            - On-page SEO is not about:
+
+                - Stuffing exact match keywords (means including your key word throughout your page repeatedly)
+                - Using your keyword a specific number of times on the page
+                - Meeting a minimum word count
+
+            - What on-page SEO is today : 
+
+                - The goal of your pages should be to satisfy the searcher's intent
+                - Your content needs to address the things people expect to see 
+                - you need to nail items like : Titles, Subheadings, Internal Linking, Readability, The content itself
+
+        Part Two : How to optimize a page for a keyword 
+
+            - In order to rank for a ton of keywords and get a ton of search traffic, you need : 
+
+                    - Page that's optimized to rank 
+
+                        - the best thing to do here is learn from your competition
+                            - why are they ranking first
+                            - check them based on their 3 c's (intent)
+                            - open the page and identify their similarities.
+
+                    - Backlinks 
+
+            - Technical On-Page SEO Optimizations 
+
+                - Include your target keyword in your title when it makes sense
+                - Use a short and descriptive slug
+                - Meta Description 
+                - Add internal links to and from your pages. (internal links are links within a single domain)
+                - Optimize your images
+                    - name your image files appropriately
+                    - use descriptive alt text in img tag
+                    - compress your images (shortpixel.com)
+                - optimize for readability 
+                        - Write in short sentences and short paragraphs
+                        - Use descriptive Subheadings
+                        - Use a large enough font.
+                        - Avoid using big words.
+                        - Write as you speak. (Hemingway app is a good example)
+                - other on page Optimizations
+                        - open graph (OG) meta tags 
+                        - schema markup
+                
+Module #3 : Link Building
+
+    3.1 : What is link building and why is it important 
+
+            What is link building ?
+
+                - The process of getting other websites to link to a page on your website.
+                - These hyperlinks are called backlinks.
+                - Real definition - Link building is the process of building relationships
+                  with other relevant site owners who want and will link to your content
+                  because it enhances theirs.
+
+
+            Why is it important ?
+
+                - because google uses backlinks as part of it's linking algorithms 
+
+    3.2 : Link Building Strategies  to get backlinks 
+
+            3 strategies to get backlinks 
+
+                - create them 
+                    - manually add links on one domain back to yours .
+                    - Examples - Adding your links to Directories, Blog comments and Social media profile 
+                
+                - buy them
+
+                    - pay webmasters or authors fo a backlink.
+                    - Highly effective , but you may get caught.  
+                
+                - earn them 
+
+                    - Email Outreach
+                    - Becoming a source for an online publication or media outlet 
+                    - Earn organically, people linking your page/data, but works mostly when:
+                            - You're an extremely ell known brand
+                            - You have extremely well crafted content 
+                            - You're already getting significant exposure 
+
+    3.3 : What makes a backlink "Good"?
+
+         5 attributes that make a backlink good 
+
+            - Relevance 
+            - Authoritativeness
+            - Anchor text 
+            - Rel attribute in a tag 
+
+                    - the relationship between the linking and the linked page
+                        examples - sponsored, ugc, Nofollow, or don't specify rel is the default  meaning a followed link 
+            - Link placement
+
+
+        To conclude : An ideal link would come from a relevant 
+                      and authoritative page where the link is 
+                      followed. 
+
+                      It would have a descriptive achor, and be
+                      placed contextually within editorial content.
+
+    3.4 : Link Building Tactics for Beginners 
+
+        3 general stages in link building 
+
+            - Prospecting 
+
+                - process of finding relevant pages and websites that might link to you.
+
+            - Vetting
+
+                - Process of refining your list of prospects.
+
+            - Email outreach 
+
+                - finalize your pitches and start emailing your vetted prospects.
+
+        Link Building Tactics 
+
+            - Get free PR using HARO (Helper reporter out)
+                -  get emails of resource searchers 
+            
+                - tips to get response from email outreach 
+
+                    - keep your emails as short as needed 
+                    - go after topics where journalists are looking for multiple sources 
+                    - respond as quickly as possible 
+                    - prioritize questions where you are an expert and use it as the first line in your pitch.
+                    - Follow all their directions
+
+            - Guest posting  (Guest blogging)
+
+                - is when you create content for another website 
+         
+            - The Skyscraper Technique
+
+                - Find cntent that has a lot of links 
+                - Create your own version on the topic but improve on it 
+                - Reach out to those linking to the popular post and ask them to link to yours  
+
+    3.5: How to do blogger outreach for backlinks
+
+         - Objective of Blogger outreach 
+
+            - Convince those with large targeted audiences to talk about you (link to your website).
+
+            - Approaches to blogger outreach 
+
+                - Shotgun approach - Build broad list of projects and blast emails to all of them
+                - Sniper method - choose targets carefully and reach 
+
+            - Who you should reach out and how?
+
+                - About us / contact page 
+                - Linkdin page
+                - hunter.io is a website to find someone's email after entering their information  
+
+         Anatomy of an outreach email 
+
+            - subject line -- write purpose and envoke interest 
+            - introduction -- tell them why you are emailing them 
+            - Qualification and justification - show them why you are qualified and jutify the post 
+            - The pitch - includes your ask and value proposition.
+            - Continue the conversation - don't finish with hard closed off words
+
+Module #4 : The Basics of Technical SEO 
+
+    4.1 Technical SEO - is the process of optimizing your website 
+                        to help search engines find, understand and 
+                        index your pages.
+
+        Why is technical SEO important?
+
+            - if your pages can't properly be found indexed etc then you won't rank 
+
+            you should avoid mistakes like :
+
+                - Removing yourself from google's index
+                - Diluting a page's backlinks 
+
+            4 thing to avoid these mistakes 
+
+                - No noindex meta tag 
+                    <meta name="robots" content="noindex"> 
+
+                - robots.txt 
+
+                    is a file that usually lives on your root domain    
+                
+                - Site maps 
+
+                    are usually XML files that list the important URL's on your website. (pages, images videos).
+
+                - Redirects
+                    
+                    Takes visitors and bots from one URL to another 
+                    Their purpose is to consolidate signals.
+
+                - Canonical Tag
+
+                    <link rel="canonical" href="https://yourdomain/slug" />
+                    it's purpose is to tell search engines what the prefered url is for a page.
+
+    4.2 Technical SEO Best Practices 
+
+        - Ensure that your site structure follows a logical hierarchy 
+
+            - site structure - is the way you organize your website  like home -> services -> about -> blogs
+
+        - Esure your pages don't load slow 
+
+            - Cache your website's content 
+            - Compress your images 
+            - Do your best to stay on top of around 50 potential SEO errors 
+                - errors like 
+                    - Broken pages that still have internal links pointing at them 
+                    - Orphan pages 
+                    - Duplicate content issues
+                    - Redirect chains 
