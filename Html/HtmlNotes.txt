@@ -1,0 +1,69 @@
+Html Notes from HTML Crash Course For Absolute Begineers
+
+What is HTML
+- Hyper Text Markup Language
+- Not a programming language
+- Used to create webpages/ documents
+- Building blocks of the web
+- Purely displaying
+
+
+Creating an HTML file
+index.html is the root/home page of a website
+
+Tag syntax
+- Html tags are building blocks
+- Element names surrounded by angle brackets
+- Come in pairs(start tag and end tag)
+
+Doctype:- refers to the type of document the page is
+meta tags help when google searches for content
+
+simple syntax form
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sami</title>
+</head>
+<body>
+
+    <h2>Samuel Arefeaynie</h2>
+
+    
+</body>
+</html>
+
+
+inline Elements e.g span img a
+- Don't start on a new line
+- Take only the necessary width
+Block Elements e.g div h1 p form
+-Start on a new line
+- Take a full width available
+
+
+Html tag attributes
+- All tags can have attributes
+- provide info about an element
+- placed within the start tag
+- key/value pairs(id="someId")
+
+
+
+Html semantic tags
+
+                            _______________________
+    <header></header>       |        Header        |
+    <footer></footer>       |______________________| 
+    <aside></aside>         |         nav          |
+    <main></main>           |______________________| 
+    <article></article>     | section   |          | 
+    <nav></nav>             |___________|  aside   |   
+    <section></section>     | article   |          |
+    <details></details>     |___________|__________|
+                            |        footer        |
+                            |______________________| 
